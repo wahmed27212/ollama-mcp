@@ -1,6 +1,6 @@
 {
   "name": "ollama-mcp",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An MCP Server for Ollama",
   "main": "src/index.ts",
   "scripts": {
